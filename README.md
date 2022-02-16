@@ -1,4 +1,4 @@
-- 👋 hello, i’m some person on github spog
+- 👋 hello, i’m some person on github otherwise known as spog
 currently 15 years old and trying out programming
 - 👀 i’m interested in all types of things, mostly focusing on my school's robotics team
 - 🌱 i’m currently learning C and C++
